@@ -1,7 +1,3 @@
-test
-
-
-
 ---
 
 title: "MYOUR-TITLE"
